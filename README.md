@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I'm currently working on my thesis project 👷
 - I like JavaScript and NodeJS 📰
 - I like backend development 🔙
-- I learning Rust 🍄
+- I'm learning Rust 🍄
 - I play Super Smash Bros. Melee, my slippi tag is arto#886 🎮
 - Fox main 🦊
 - Fun fact: \[insert fun fact here\]
