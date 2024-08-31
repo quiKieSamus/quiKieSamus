@@ -5,4 +5,4 @@
 - I'm currently working as a Full Stack Developer 👷
 - I use JavaScript, Typescript and PHP to build cool things 📰
 
-You can find me on discord (galva#9489), telegram (@quikiesamus) and you can also send me an email through any of these gmails: artorias201001@gmail.com or gonzru01atwork@gmail.com - I'd be pleased to work or talk with you ;))
+You can find me on discord (galvadev), telegram (@quikiesamus) and you can also send me an email through any of these gmails: artorias201001@gmail.com or gonzru01atwork@gmail.com - I'd be pleased to work or talk with you ;))
