@@ -1,6 +1,6 @@
 ### Hey, what's up? 😎
 
-- 🎴 I'm Rubén, a software engineer
+- 🎴 I'm Rubén, a computer engineer
 - I'm from Venezuela 🇻🇪
 - I'm currently working as a Full Stack Developer 👷
 - I use JavaScript, Typescript and PHP to build cool things 📰
